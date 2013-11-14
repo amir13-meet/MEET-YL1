@@ -1,4 +1,4 @@
-x = raw_input("Enter anything: ")
+x = raw_input()
 y = x
 x = x[::-1]
 if x == y:
